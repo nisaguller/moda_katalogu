@@ -1,17 +1,42 @@
-# mini_katalog
+# Moda Kataloğu
 
-A new Flutter project.
+## Proje Hakkında
 
-## Getting Started
+Moda Kataloğu, Flutter kullanılarak geliştirilmiş bir mobil katalog uygulamasıdır. Uygulama üzerinden ürünler listelenebilir, ürün detayları görüntülenebilir, kategorilere göre filtreleme yapılabilir ve sepete ürün eklenip çıkarılabilir.
 
-This project is a starting point for a Flutter application.
+## Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+* Ürünleri listeleme
+* Ürün arama ve kategori filtreleme
+* Ürün detaylarını görüntüleme
+* Sepete ürün ekleme ve çıkarma
+* Sepet toplam tutarını hesaplama
+* Krem ve kahverengi tonlarında kullanıcı arayüzü
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Kullanılan Teknolojiler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter SDK: 3.47.6
+* Dart SDK: 3.13.5
+* Material Design (`material.dart`)
+
+## Kurulum ve Çalıştırma
+
+1. Flutter SDK'yı bilgisayarınıza kurun.
+
+2. Bu depoyu bilgisayarınıza indirin veya klonlayın.
+
+3. Proje klasörünü terminalde açın.
+
+4. Gerekli dosyaları hazırlamak için şu komutu çalıştırın:
+
+   `flutter pub get`
+
+5. Android emülatörünü başlatın veya Android cihazınızı bağlayın.
+
+6. Uygulamayı çalıştırmak için şu komutu kullanın:
+
+   `flutter run`
+
+## Geliştirici
+
+Bu proje, Flutter günlük eğitim çalışması kapsamında hazırlanmıştır.
